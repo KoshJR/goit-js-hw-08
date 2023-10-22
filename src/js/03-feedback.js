@@ -19,6 +19,7 @@ function localStorageCheck() {
     }
   }
 }
+
 localStorageCheck();
 
 formInput.addEventListener('submit', clickOnSubmit);
